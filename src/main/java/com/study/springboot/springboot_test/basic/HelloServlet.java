@@ -25,5 +25,6 @@ public class HelloServlet extends HttpServlet {
         writer.println("<head>spring booster test</head>");
         writer.println("<body>get test</body>");
         writer.println("</html>");
+        
     }
 }
